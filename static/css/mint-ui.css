@@ -1,0 +1,22 @@
+  * {
+      margin: 0px;
+      padding: 0px; 
+    }
+  .mint-swipe-indicator {
+    background-color: #f3f1f1;
+    opacity: 1;
+  }
+  .mint-swipe-indicators {
+    bottom: 5px;
+  }
+  .mint-swipe {
+    height: 170px;
+    background-color: #f9f9f9;
+  }
+  .mint-swipe-item {
+    background-color: #fff;
+  }
+  a {
+    text-decoration: none;
+    color: #000;
+  }
